@@ -4,6 +4,10 @@
 
 加油干，没准儿还能赶上末班车！
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ckjbug/xiaokui/master/image/bloglogo1.png"> 
+</div>
+
 ****
 
 > 博客签名：天道酬勤，功不唐捐。
