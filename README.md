@@ -25,19 +25,19 @@
     微信公众号、微博这些，最后我结合自己写的文章类型，选择以后常驻GitHub了。本地计算机上，我将大部分的文章笔记都写在Evernote里
     面，后面也会选一些系列点的文章迁移到这里。
 
-### 存在即道理——谈谈后端技术的现状
+### [存在即道理——谈谈后端技术的现状](https://github.com/ckjbug/blog/issues/1)
 ---
 
-### 百家齐放——聊聊前端技术
+### [百家齐放——聊聊前端技术](https://github.com/ckjbug/blog/issues/2)
 ---
 
-### 厚积薄发——College基础的重要性
+### [厚积薄发——College基础的重要性](https://github.com/ckjbug/blog/issues/3)
 ---
 
-### 高瞻远瞩——互联网技术的发展趋势
+### [高瞻远瞩——互联网技术的发展趋势](https://github.com/ckjbug/blog/issues/4)
 ---
 
-### 胸有成竹——.NET面试系列总结
+### [胸有成竹——.NET面试系列总结](https://github.com/ckjbug/blog/issues/5)
 ---
 
 
