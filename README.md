@@ -30,10 +30,10 @@
 ### [存在即道理——谈谈后端技术的现状](https://github.com/ckjbug/blog/issues/1)
 ---
 
-### [百家齐放——聊聊前端技术](https://github.com/ckjbug/blog/issues/2)
+### [百家齐放——聊聊前端技术的未来](https://github.com/ckjbug/blog/issues/2)
 ---
 
-### [厚积薄发——College基础的重要性](https://github.com/ckjbug/blog/issues/3)
+### [厚积薄发——大学专业基础的重要性](https://github.com/ckjbug/blog/issues/3)
 ---
 
 ### [高瞻远瞩——互联网技术的发展趋势](https://github.com/ckjbug/blog/issues/4)
