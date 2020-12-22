@@ -24,7 +24,7 @@
 
 ---------
 
-> 2019年伊始，将博客移植到GitHub，本来打算使用才免费的私有库，最后本着开源的态度，还是将这个博客仓库Open Source了，用来记录一些完整的系列文章。以前写博客总觉得零零散散，非常不集中，而且现在的知识分享平台实在太多，像[博客园](https://www.cnblogs.com/ckjbug/)、CSDN、[知乎](https://www.zhihu.com/people/xiao-kui-21-11/posts)、简书、掘金、微信公众号、[微博](https://weibo.com/5674095094/profile?topnav=1&wvr=6)这些，最后我结合自己写的文章类型，选择以后常驻GitHub了。本地计算机上，我将大部分的文章笔记都写在Evernote里面，后面也会选一些系列点的文章迁移到这里。
+> 2019年伊始，将博客移植到GitHub，本来打算使用才免费的私有库，最后本着开源的态度，还是将这个博客仓库Open Source了，用来记录一些完整的系列文章。以前写博客总觉得零零散散，非常不集中，而且现在的知识分享平台实在太多，像[博客园](https://www.cnblogs.com/ckjbug/)、CSDN、[知乎](https://www.zhihu.com/people/IT_TI)、简书、掘金、微信公众号、[微博](https://weibo.com/5674095094/profile?topnav=1&wvr=6)这些，最后我结合自己写的文章类型，选择以后常驻GitHub了。本地计算机上，我将大部分的文章笔记都写在Evernote里面，后面也会选一些系列点的文章迁移到这里。
 
     
 ### [存在即道理——谈谈后端技术的现状](https://github.com/ckjbug/blog/issues/1)
